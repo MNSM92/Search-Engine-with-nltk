@@ -1,1 +1,1 @@
-spam email classifier with nltk and numpy.
+documents classifier with nltk and numpy.
